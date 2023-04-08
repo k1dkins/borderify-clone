@@ -1,1 +1,1 @@
-document.body.style.border = "500px solid purple";
+document.body.style.border = "8px solid purple";
