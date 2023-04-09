@@ -5,9 +5,8 @@
   "version": "1.0",
 
   "description": "Adds a red border to all webpages matching mozilla.org.",
-
-  "icons": {
-    "48": "icons/border-48.png"
+  "icons":{
+    "48": "icons/scissors-48.png"
   },
 
   "content_scripts": [
