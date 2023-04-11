@@ -9,11 +9,15 @@
     "48": "icons/scissors-48.png"
   },
 
+  "browser_action": {
+  "default_title": "Borderify",
+  "default_popup": "borderify.html"
+  },
+
   "content_scripts": [
     {
       "matches": ["*://*.google.com/*"],
       "js": ["borderify.js"]
     }
   ]
-
 }
